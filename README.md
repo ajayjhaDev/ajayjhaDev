@@ -7,11 +7,11 @@
 
 ### 🧑🏽‍💻Technical skill
 
-- **Programming Language**  :  <img src="https://www.computerhope.com/jargon/j/javascript.png" height="20px" width="20px"> JavaScript  ES6.
+- **Programming Language**  :   <img src="https://www.computerhope.com/jargon/j/javascript.png" height="20px" width="20px"> JavaScript  ES6.
 
-- **Technologies**
+- **Technologies** :  React Redux Bootstrap CSS HTML.
 
-- **Relevant skill** 
+- **Relevant skill** : Git Github & VS-Code.
 
 
 
