@@ -2,12 +2,12 @@
 
 ### 💻 *Full Stack Developer enthusiast*
 
-<!-- ![This is an image](https://raw.githubusercontent.com/Gapur/Gapur/main/assets/coding.gif) -->
+
 <img alt="developer-img" src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/coding.gif">
 
 ### Technical skill
 
-- **Programming Language**  ![This is an image](https://www.computerhope.com/jargon/j/javascript.png)
+- **Programming Language**  <img src="https://www.computerhope.com/jargon/j/javascript.png" height="100px" width="100px">
 
 - **Technologies**
 
