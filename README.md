@@ -2,7 +2,8 @@
 
 ### 💻 *Full Stack Developer enthusiast*
 
-![This is an image](https://raw.githubusercontent.com/Gapur/Gapur/main/assets/coding.gif)
+<!-- ![This is an image](https://raw.githubusercontent.com/Gapur/Gapur/main/assets/coding.gif) -->
+<img alt="developer-img" src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/coding.gif">
 
 ### Technical skill
 
