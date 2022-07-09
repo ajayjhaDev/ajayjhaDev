@@ -5,9 +5,9 @@
 
 <img alt="developer-img" src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/coding.gif">
 
-### Technical skill
+### 🧑🏽‍💻Technical skill
 
-- **Programming Language**  <img src="https://www.computerhope.com/jargon/j/javascript.png" height="30px" width="30px">
+- **Programming Language**    <img src="https://www.computerhope.com/jargon/j/javascript.png" height="20px" width="20px">
 
 - **Technologies**
 
