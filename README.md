@@ -7,7 +7,7 @@
 
 ### Technical skill
 
-- **Programming Language**  <img src="https://www.computerhope.com/jargon/j/javascript.png" height="100px" width="100px">
+- **Programming Language**  <img src="https://www.computerhope.com/jargon/j/javascript.png" height="30px" width="30px">
 
 - **Technologies**
 
