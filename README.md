@@ -18,6 +18,13 @@
 
 ## 💛Connect with me
 
+<a href="https://www.linkedin.com/in/ajaykumarjha06/">
+   <img src="">
+</a>
+
+<a href="https://twitter.com/Ajay_Kumar__01">
+   <img src="https://img.icons8.com/color/344/twitter--v1.png">
+</a>
 
 
 
