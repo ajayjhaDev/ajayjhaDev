@@ -3,7 +3,7 @@
 ### 💻 *Full Stack Developer enthusiast*
 
 
-<img alt="developer-img" src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/coding.gif">
+<img alt="developer-img" src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/coding.gif" height="200px" width="200px">
 
 ### 🧑🏽‍💻Technical skill
 
