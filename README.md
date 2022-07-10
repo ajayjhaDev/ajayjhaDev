@@ -19,15 +19,15 @@
 ## 💛Connect with me
 
 <a href="https://www.linkedin.com/in/ajaykumarjha06/">
-   <img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" height="20px" width="20px">
+   <img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" height="80px" width="80px">
 </a>
 
 <a href="https://twitter.com/Ajay_Kumar__01">
-   <img src="https://img.icons8.com/color/344/twitter--v1.png" height="20px" width="20px">
+   <img src="https://img.icons8.com/color/344/twitter--v1.png" height="80px" width="80px">
 </a>
 
 <a href="https://www.instagram.com/nayan_jha__/">
-   <img src="https://img.icons8.com/cute-clipart/344/instagram-new.png" height="20px" width="20px">
+   <img src="https://img.icons8.com/cute-clipart/344/instagram-new.png" height="80px" width="80px">
 </a>
 
 
