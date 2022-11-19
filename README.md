@@ -1,9 +1,5 @@
 ## Hi there 👋 I'm Ajay !
 
-### 💻 *Full Stack Developer enthusiast*
-
-
-<img alt="developer-img" src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/coding.gif" height="250px" width="250px">
 
 ### 🧑🏽‍💻Technical skill
 
