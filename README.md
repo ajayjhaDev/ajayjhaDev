@@ -4,7 +4,7 @@
 ### 🧑🏽‍💻Technical skill
 
 - **Programming Language**  : JavaScript
-- 
+ 
 - **Technologies** :  React Redux Bootstrap CSS HTML and Ant design
 
 - **Relevant skill** : git github vs-code
