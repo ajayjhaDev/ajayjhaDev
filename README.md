@@ -3,11 +3,13 @@
 
 ### 🧑🏽‍💻Technical skill
 
-- **Programming Language**  : JavaScript
+- **Programming Language**  : JavaScript , ES6
  
-- **Technologies** :  React Redux Bootstrap CSS HTML and Ant design
+- **Frontend Technologies** :  NextJs ReactJs ReduxJs Bootstrap CSS HTML and Ant design
 
-- **Relevant skill** : git github vs-code
+- **Backend Technologies** :   NodeJs ExpressJs and MongoDB 
+
+- **Relevant skill** : git github vs-code and postman
 
 ### 💛Connect with me
 
